@@ -1,0 +1,43 @@
+﻿ 72
+南京 1
+鸡西 1
+广州 46
+深圳 8
+佛山 6
+潮州 72
+江北 1
+江门 4
+阳江 2
+韶关 2
+湛江 6
+汕头 14
+河源 1
+青岛 1
+St. Anthony 1
+东莞 5
+惠州 6
+梅州 4
+中山 2
+云浮 1
+Melbourne 1
+清远 1
+汕尾 1
+揭阳 4
+茂名 4
+九龙城区 2
+乌鲁木齐 1
+金华 1
+Miami Beach 1
+潼南 1
+杭州 1
+静安 1
+Kyoto 1
+Sydney 1
+Jeju City 1
+Asahikawa-shi 1
+Others 1
+Plymouth 1
+Cleveland 1
+哈尔滨 1
+珠海 1
+厦门 1
